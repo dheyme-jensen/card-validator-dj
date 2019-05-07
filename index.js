@@ -10,3 +10,9 @@ function calculateDigit (card) {
       return counter + element; 
     });
 };
+function cardValidator (card) {
+  card.split('').every((item) => item === card[0]);
+  return calculateDigit(card) % 10 === 0;
+};
+console.log(cardValidator('5232841955055344'));
+module.exports.cardValidator = cardValidator;
