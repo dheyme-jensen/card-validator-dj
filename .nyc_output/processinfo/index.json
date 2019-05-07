@@ -1,0 +1,1 @@
+{"processes":{"2243c92d-71ef-4da2-bdfe-b8b59ed5f379":{"parent":null,"children":["4e308baa-fab2-46e8-866e-7d135e0c072d"]},"4e308baa-fab2-46e8-866e-7d135e0c072d":{"parent":"2243c92d-71ef-4da2-bdfe-b8b59ed5f379","children":[]}},"files":{"/home/dheyme/Documentos/laboratoria/card-validator-dj/index.js":["4e308baa-fab2-46e8-866e-7d135e0c072d"]},"externalIds":{}}
